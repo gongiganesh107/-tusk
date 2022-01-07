@@ -5,3 +5,7 @@ Java is a object oriented language
 Java is easy
 
 Java is easy2
+
+
+Linux 
+Shell Script
